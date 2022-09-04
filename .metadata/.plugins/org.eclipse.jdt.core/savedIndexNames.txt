@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Pratiksha\Pro\MyBlogs\.metadata\.plugins\org.eclipse.jdt.core
+1704979481.index
+3211849110.index
